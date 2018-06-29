@@ -12,8 +12,6 @@ newmtl Material__35
 	Kd 0.5880 0.5880 0.5880
 	Ks 0.0000 0.0000 0.0000
 	Ke 0.0000 0.0000 0.0000
-	map_Ka C:\Users\Prototype Mercer\Desktop\Blue Eyes Ultimate Dragon\m32_UltimateBlueE_A_.png
-	map_Kd C:\Users\Prototype Mercer\Desktop\Blue Eyes Ultimate Dragon\m32_UltimateBlueE_A_.png
 
 newmtl Material__47
 	Ns 10.0000
@@ -26,8 +24,6 @@ newmtl Material__47
 	Kd 0.5880 0.5880 0.5880
 	Ks 0.0000 0.0000 0.0000
 	Ke 0.0000 0.0000 0.0000
-	map_Ka C:\Users\Prototype Mercer\Desktop\Blue Eyes Ultimate Dragon\m32_UltimateBlueE_B_.png
-	map_Kd C:\Users\Prototype Mercer\Desktop\Blue Eyes Ultimate Dragon\m32_UltimateBlueE_B_.png
 
 newmtl Material__83
 	Ns 10.0000
@@ -40,5 +36,3 @@ newmtl Material__83
 	Kd 0.5880 0.5880 0.5880
 	Ks 0.0000 0.0000 0.0000
 	Ke 0.0000 0.0000 0.0000
-	map_Ka C:\Users\Prototype Mercer\Desktop\Blue Eyes Ultimate Dragon\UltimateZunge.png
-	map_Kd C:\Users\Prototype Mercer\Desktop\Blue Eyes Ultimate Dragon\UltimateZunge.png
