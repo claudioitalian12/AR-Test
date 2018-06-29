@@ -1,11 +1,10 @@
 # 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
 # File Created: 03.02.2012 15:50:24
 
-mtllib Blue  eyes Ultimate  Dragon.mtl
+mtllib BB.mtl
 
-#
-# object Skin_Mesh
-#
+o Skin_Mesh
+
 
 v  -0.6961 0.2600 0.4087
 v  -0.7055 0.2622 0.3614
