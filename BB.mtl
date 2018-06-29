@@ -2,7 +2,7 @@
 # File Created: 03.02.2012 15:50:24
 
 newmtl Material__35
-	Ns 10.0000
+	Ns 30.0000
 	Ni 1.5000
 	d 1.0000
 	Tr 1.0000
@@ -16,7 +16,7 @@ newmtl Material__35
 	map_Kd m32_UltimateBlueE_A_.png
 
 newmtl Material__47
-	Ns 10.0000
+	Ns 30.0000
 	Ni 1.5000
 	d 1.0000
 	Tr 1.0000
@@ -30,7 +30,7 @@ newmtl Material__47
 	map_Kd m32_UltimateBlueE_B_.png
 
 newmtl Material__83
-	Ns 10.0000
+	Ns 30.0000
 	Ni 1.5000
 	d 1.0000
 	Tr 1.0000
