@@ -3,7 +3,7 @@
 
 newmtl Material__35
 	Ns 30.0000
-	Ni 1.5000
+	Ni 10.5000
 	d 1.0000
 	Tr 1.0000
 	Tf 10.0000 10.0000 10.0000 
@@ -17,7 +17,7 @@ newmtl Material__35
 
 newmtl Material__47
 	Ns 30.0000
-	Ni 1.5000
+	Ni 10.5000
 	d 1.0000
 	Tr 1.0000
 	Tf 10.0000 10.0000 10.0000 
@@ -31,7 +31,7 @@ newmtl Material__47
 
 newmtl Material__83
 	Ns 30.0000
-	Ni 1.5000
+	Ni 10.5000
 	d 1.0000
 	Tr 1.0000
 	Tf 10.0000 10.0000 10.0000 
