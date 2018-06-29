@@ -35,11 +35,12 @@
 		
 		<!-- handle kanji marker -->
 		<a-marker preset='kanji'>
-			<a-box position='0 0.5 0' material='opacity: 0.5; side: double;color:green;'>
-				<a-torus-knot radius='0.26' radius-tubular='0.05'>
-					<a-animation attribute="rotation" to="360 0 0" dur="5000" easing='linear' repeat="indefinite"></a-animation>
-				</a-torus-knot>
-			</a-box>
+				   <a-entity 
+            obj-model="obj: url(https://claudioitalian12.github.io/AR-Test/BB.obj); 
+            mtl: url(https://claudioitalian12.github.io/AR-Test/BB.mtl)">
+          <a-animation easing="linear" attribute="rotation" dur="10000" to="0 360 0" repeat="indefinite"></a-animation>
+			
+        </a-entity>
 		</a-marker>
 		
 		<!-- add a simple camera -->
