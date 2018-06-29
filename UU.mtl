@@ -9,7 +9,8 @@ Ks 0.500000 0.500000 0.500000
 Ni 1.000000
 d 1.000000
 illum 2
-
+map_Kd Umbreon.png
+map_Ka Umbreon.png
 newmtl UmbreonEye
 Ns 96.078431
 Ka 0.000000 0.000000 0.000000
@@ -18,3 +19,5 @@ Ks 0.500000 0.500000 0.500000
 Ni 1.000000
 d 1.000000
 illum 2
+map_Kd UmbreonEye.png
+map_Ka UmbreonEye.png
