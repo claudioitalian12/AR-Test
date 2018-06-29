@@ -10,7 +10,7 @@ newmtl Material__35
 	illum 2
 	Ka 0.5880 0.5880 0.5880
 	Kd 0.5880 0.5880 0.5880
-	Ks 0.0000 0.0000 0.0000
+	Ks 0.5000 0.5000 0.5000
 	Ke 0.0000 0.0000 0.0000
 	map_Ka m32_UltimateBlueE_A_.png
 	map_Kd m32_UltimateBlueE_A_.png
@@ -24,7 +24,7 @@ newmtl Material__47
 	illum 2
 	Ka 0.5880 0.5880 0.5880
 	Kd 0.5880 0.5880 0.5880
-	Ks 0.0000 0.0000 0.0000
+	Ks 0.5000 0.5000 0.5000
 	Ke 0.0000 0.0000 0.0000
 	map_Ka m32_UltimateBlueE_B_.png
 	map_Kd m32_UltimateBlueE_B_.png
@@ -38,7 +38,7 @@ newmtl Material__83
 	illum 2
 	Ka 0.5880 0.5880 0.5880
 	Kd 0.5880 0.5880 0.5880
-	Ks 0.0000 0.0000 0.0000
+	Ks 0.5000 0.5000 0.5000
 	Ke 0.0000 0.0000 0.0000
 	map_Ka UltimateZunge.png
 	map_Kd UltimateZunge.png
