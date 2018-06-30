@@ -3,7 +3,7 @@ Example of AR used AR-JS, through official repository https://github.com/jeromee
 
 
 ## Demo
-![Image](httpz:/claudioitalian12.github.io/AR-Test/Screenshot_20180629-194156.png) or
+![Image](https:/claudioitalian12.github.io/AR-Test/Screenshot_20180629-194156.png) or
 [![Watch the video]()](https://drive.google.com/open?id=1d5k249VWYmS0e666y2GIlGL-WXh-o-mv)
 
 
